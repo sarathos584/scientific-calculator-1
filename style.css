@@ -100,5 +100,9 @@ box-shadow: inset 5px 5px 8px #e60073,
     width: fit-content;
     block-size: fit-content;
    }
-    
+    .calculator{
+        padding: 0;
+        margin: 0;
+       
+    }
 }
